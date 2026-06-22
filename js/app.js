@@ -3,7 +3,7 @@
 /* ===== Constantes ===== */
 const WHATSAPP_NUMERO = '50379192998';
 const STORAGE_KEY = 'finoArteCarrito';
-const BANNER_INTERVAL = 3000;
+const BANNER_INTERVAL = 5000;
 
 /* ===== Estado ===== */
 let productos = [];
