@@ -1,132 +1,67 @@
 [
   {
     "id": 1,
-    "nombre": "Blazer Ejecutivo Negro",
-    "precio": 189.99,
+    "nombre": "Billetera de Cuero Clásica color Negra",
+    "precio": 5.00,
     "categoria": "Hombre",
-    "info": "Blazer de corte slim confeccionado en lana premium. Forro de seda interior, botones dorados y solapa de muesca. Ideal para ocasiones formales y reuniones de negocios.",
+    "info": "Billetera de cuero genuino con diseño clásico. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/producto-1-1.jpg",
-      "img/producto-1-2.jpg",
-      "img/producto-1-3.jpg",
-      "img/producto-1-4.jpg"
+      "img/1000/1001.heic",
+      "img/1000/1002.heic",
+      "img/1000/1003.heic",
+      "img/1000/1004.png",
+      "img/1000/1005.png",
+      "img/1000/1006.png",
+      "img/1000/1007.png"
     ]
   },
   {
     "id": 2,
-    "nombre": "Camisa Oxford Blanca",
-    "precio": 79.99,
+    "nombre": "Billetera de Cuero Clásica color Marrón",
+    "precio": 5.00,
     "categoria": "Hombre",
-    "info": "Camisa clásica de algodón Oxford con cuello abotonado. Tejido transpirable de alta calidad, perfecta para el día a día con elegancia discreta.",
+    "info": "Billetera de cuero genuino con diseño clásico. Buena elección que te da un toque de elegancia y sofisticación. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/producto-2-1.jpg",
-      "img/producto-2-2.jpg",
-      "img/producto-2-3.jpg",
-      "img/producto-2-4.jpg"
+      "img/2000/2001.heic",
+      "img/2000/2002.heic",
+      "img/2000/2003.heic",
+      "img/2000/2004.png",
+      "img/2000/2005.png",
+      "img/2000/2006.png"
     ]
   },
   {
     "id": 3,
-    "nombre": "Pantalón Chino Beige",
-    "precio": 94.99,
+    "nombre": "Billetera de Cuero Clásica  color Azul",
+    "precio": 5.00,
     "categoria": "Hombre",
-    "info": "Pantalón chino de algodón peinado con corte recto. Cintura media, bolsillos laterales y traseros. Versatilidad y comodidad en cada paso.",
+    "info": "Billetera de cuero genuino con diseño clásico. Perfecta para tus, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/producto-3-1.jpg",
-      "img/producto-3-2.jpg",
-      "img/producto-3-3.jpg",
-      "img/producto-3-4.jpg"
+      "img/3000/3001.heic",
+      "img/3000/3002.heic",
+      "img/3000/3003.heic",
+      "img/3000/3004.png",
+      "img/3000/3005.png",
+      "img/3000/3006.png",
+      "img/3000/3007.png"
     ]
   },
   {
     "id": 4,
-    "nombre": "Corbata de Seda Dorada",
-    "precio": 49.99,
+    "nombre": "Billetera de Cuero Clasica color Marron Oscuro",
+    "precio": 5.00,
     "categoria": "Hombre",
-    "info": "Corbata tejida en pura seda con acabado satinado en tono dorado. Ancho clásico de 8 cm. El detalle perfecto para elevar cualquier atuendo.",
+    "info": "Billetera de cuero genuino con diseño clásico. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/producto-4-1.jpg",
-      "img/producto-4-2.jpg",
-      "img/producto-4-3.jpg",
-      "img/producto-4-4.jpg"
-    ]
-  },
-  {
-    "id": 5,
-    "nombre": "Vestido Midi Elegante",
-    "precio": 159.99,
-    "categoria": "Mujer",
-    "info": "Vestido midi de corte A en tejido fluido. Escote en V, cintura marcada y caída impecable. Diseño atemporal para eventos especiales y cenas de gala.",
-    "imagenes": [
-      "img/producto-5-1.jpg",
-      "img/producto-5-2.jpg",
-      "img/producto-5-3.jpg",
-      "img/producto-5-4.jpg"
-    ]
-  },
-  {
-    "id": 6,
-    "nombre": "Blusa de Seda Crema",
-    "precio": 119.99,
-    "categoria": "Mujer",
-    "info": "Blusa confeccionada en seda natural con manga larga y puños abotonados. Caída suave y brillo sutil. Pieza esencial del guardarropa sofisticado.",
-    "imagenes": [
-      "img/producto-6-1.jpg",
-      "img/producto-6-2.jpg",
-      "img/producto-6-3.jpg",
-      "img/producto-6-4.jpg"
-    ]
-  },
-  {
-    "id": 7,
-    "nombre": "Falda Plisada Negra",
-    "precio": 89.99,
-    "categoria": "Mujer",
-    "info": "Falda plisada de longitud midi en tejido premium. Cintura elástica forrada y pliegues uniformes. Combina con blusas y blazers para un look refinado.",
-    "imagenes": [
-      "img/producto-7-1.jpg",
-      "img/producto-7-2.jpg",
-      "img/producto-7-3.jpg",
-      "img/producto-7-4.jpg"
-    ]
-  },
-  {
-    "id": 8,
-    "nombre": "Bolso de Cuero Artesanal",
-    "precio": 249.99,
-    "categoria": "Mujer",
-    "info": "Bolso estructurado en cuero genuino con herrajes dorados. Compartimento principal amplio, bolsillo interior con cierre y asa ajustable. Hecho a mano.",
-    "imagenes": [
-      "img/producto-8-1.jpg",
-      "img/producto-8-2.jpg",
-      "img/producto-8-3.jpg",
-      "img/producto-8-4.jpg"
-    ]
-  },
-  {
-    "id": 9,
-    "nombre": "Traje Slim Gris Perla",
-    "precio": 299.99,
-    "categoria": "Hombre",
-    "info": "Traje de dos piezas en lana virgen de corte slim. Chaqueta entallada y pantalón con pinzas. Acabado impecable para el caballero contemporáneo.",
-    "imagenes": [
-      "img/producto-9-1.jpg",
-      "img/producto-9-2.jpg",
-      "img/producto-9-3.jpg",
-      "img/producto-9-4.jpg"
-    ]
-  },
-  {
-    "id": 10,
-    "nombre": "Abrigo Largo Camel",
-    "precio": 279.99,
-    "categoria": "Mujer",
-    "info": "Abrigo largo en lana y cachemira con cinturón desmontable. Solapa amplia y bolsillos laterales. Silueta elegante que define la silueta con distinción.",
-    "imagenes": [
-      "img/producto-10-1.jpg",
-      "img/producto-10-2.jpg",
-      "img/producto-10-3.jpg",
-      "img/producto-10-4.jpg"
+      "img/4000/4001.heic",
+      "img/4000/4002.heic",
+      "img/4000/4003.heic",
+      "img/4000/4004.png",
+      "img/4000/4005.png",
+      "img/4000/4006.png",
+      "img/4000/4007.png",
+      "img/4000/4008.png",
+      "img/4000/4009.png"
     ]
   }
 ]
