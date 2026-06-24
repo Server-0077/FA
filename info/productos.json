@@ -6,13 +6,13 @@
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/1000/1001.jpg",
-      "img/1000/1002.jpg",
-      "img/1000/1003.jpg",
-      "img/1000/1004.png",
-      "img/1000/1005.png",
-      "img/1000/1006.png",
-      "img/1000/1007.png"
+      "img/0001/1001.jpg",
+      "img/0001/1002.jpg",
+      "img/0001/1003.jpg",
+      "img/0001/1004.png",
+      "img/0001/1005.png",
+      "img/0001/1006.png",
+      "img/0001/1007.png"
     ]
   },
   {
@@ -22,12 +22,12 @@
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Buena elección que te da un toque de elegancia y sofisticación. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/2000/2001.jpg",
-      "img/2000/2002.jpg",
-      "img/2000/2003.jpg",
-      "img/2000/2004.png",
-      "img/2000/2005.png",
-      "img/2000/2006.png"
+      "img/0002/2001.jpg",
+      "img/0002/2002.jpg",
+      "img/0002/2003.jpg",
+      "img/0002/2004.png",
+      "img/0002/2005.png",
+      "img/0002/2006.png"
     ]
   },
   {
@@ -37,13 +37,13 @@
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Perfecta para tus, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/3000/3001.jpg",
-      "img/3000/3002.jpg",
-      "img/3000/3003.jpg",
-      "img/3000/3004.png",
-      "img/3000/3005.png",
-      "img/3000/3006.png",
-      "img/3000/3007.png"
+      "img/0003/3001.jpg",
+      "img/0003/3002.jpg",
+      "img/0003/3003.jpg",
+      "img/0003/3004.png",
+      "img/0003/3005.png",
+      "img/0003/3006.png",
+      "img/0003/3007.png"
     ]
   },
   {
@@ -53,15 +53,184 @@
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
-      "img/4000/4001.jpg",
-      "img/4000/4002.jpg",
-      "img/4000/4003.jpg",
-      "img/4000/4004.png",
-      "img/4000/4005.png",
-      "img/4000/4006.png",
-      "img/4000/4007.png",
-      "img/4000/4008.png",
-      "img/4000/4009.png"
+      "img/0004/4001.jpg",
+      "img/0004/4002.jpg",
+      "img/0004/4003.jpg",
+      "img/0004/4004.png",
+      "img/0004/4005.png",
+      "img/0004/4006.png",
+      "img/0004/4007.png",
+      "img/0004/4008.png",
+      "img/0004/4009.png"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Set de Collar y Aretes negro",
+    "precio": 1.00,
+    "categoria": "Mujer",
+    "info": "Es un juego de collar y aretes de diseño elegante y sofisticado, ideal para salidas casuales.",
+    "imagenes": [
+      "img/0005/5001.jpeg",
+      "img/0005/5002.jpeg",
+      "img/0005/5003.jpeg",
+      "img/0005/5004.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Arites Perforantes",
+    "precio": 1.50,
+    "categoria": "Mujer",
+    "info": "Aretes de diseño elegante y sofisticado, ideales para complementar tu estilo.",
+    "imagenes": [
+      "img/0006/6001.jpeg",
+      "img/0006/6002.jpeg",
+      "img/0006/6003.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Pulsera artesanal con dije de Búho",
+    "precio": 1.50,
+    "categoria": "Mujer",
+    "info": "Pulsera de diseño artesanal con dije de Búho, es un accesorio de la casa FA",
+    "imagenes": [
+      "img/0007/7001.jpeg",
+      "img/0007/7002.jpeg",
+      "img/0007/7003.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Pulsera artesanal con la letra A",
+    "precio": 1.50,
+    "categoria": "Mujer",
+    "info": "Pulsera de diseño artesanal con la letra A, es un accesorio de la casa FA",
+    "imagenes": [
+      "img/0008/8001.jpeg",
+      "img/0008/8002.jpeg",
+      "img/0008/8003.jpeg"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Arete con diseño de X",
+    "precio": 1.00,
+    "categoria": "Mujer",
+    "info": "Arete de diseño elegante y sofisticado, ideales para complementar tu estilo.",
+    "imagenes": [
+      "img/0009/9001.jpeg",
+      "img/0009/9002.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "set collar y aretes de enchape de oro con diseño de fresa",
+    "precio": 5.00,
+    "categoria": "Mujer",
+    "info": "Lindo set de aretes y collar de enchape de oro.",
+    "imagenes": [
+      "img/0010/10001.jpeg",
+      "img/0010/10002.jpeg",
+      "img/0010/10003.jpeg"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "set collar y aretes de enchape de oro estilo vancleff",
+    "precio": 4.00,
+    "categoria": "Mujer",
+    "info": "Hermsoso sert de aretes y collar de enchape de oro.",
+    "imagenes": [
+      "img/0011/11001.jpeg",
+      "img/0011/11002.jpeg",
+      "img/0011/11003.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "set collar y aretes de enchape de oro con estilo de rosa",
+    "precio": 5.00,
+    "categoria": "Mujer",
+    "info": "Lindo set de aretes y collar de enchape de oro.",
+    "imagenes": [
+      "img/0012/12001.jpeg",
+      "img/0012/12002.jpeg",
+      "img/0012/12003.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Hermoso aritos vancleff",
+    "precio": 1.50,
+    "categoria": "Mujer",
+    "info": "Un extraordinario aritos estilo Vancleff.",
+    "imagenes": [
+      "img/0013/13001.jpeg",
+      "img/0013/13002.jpeg",
+      "img/0013/13003.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Hermoso aritos de enchape de oro con estilo de fresa",
+    "precio": 3.00,
+    "categoria": "Mujer",
+    "info": "Deslumbra tu belleza con estos aretes de enchape de oro con estilos de fresa.",
+    "imagenes": [
+      "img/0014/14001.jpeg",
+      "img/0014/14002.jpeg",
+      "img/0014/14003.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Hermoso aritos de enchape de oro con estilo de fresa version mini",
+    "precio": 1.75,
+    "categoria": "Mujer",
+    "info": "Deslumbra tu belleza con estos aretes de enchape de oro con estilos de fresa version mini.",
+    "imagenes": [
+      "img/0015/15001.jpeg",
+      "img/0015/15002.jpeg",
+      "img/0015/15003.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Hermoso aritos de cerezas",
+    "precio": 1.00,
+    "categoria": "Mujer",
+    "info": "Se la envidia de las demas mujeres con estos aretes de cerezas.",
+    "imagenes": [
+      "img/0016/16001.jpeg",
+      "img/0016/16002.jpeg",
+      "img/0016/16003.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Collar de enchape deoro de Hello Kitty",
+    "precio": 4.00,
+    "categoria": "Mujer",
+    "info": "Se la envidia de las chicas usando este collar de enchape deoro de Hello Kitty.",
+    "imagenes": [
+      "img/0017/17002.jpeg",
+      "img/0017/17001.jpeg",
+      "img/0017/17003.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Collar de enchape de oro con una mariposa",
+    "precio": 4.00,
+    "categoria": "Mujer",
+    "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape deoro con una mariposa.",
+    "imagenes": [
+      "img/0018/18001.jpeg",
+      "img/0018/18002.jpeg",
+      "img/0018/18003.jpeg"
     ]
   }
+
 ]

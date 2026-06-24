@@ -61,12 +61,16 @@ ul {
 }
 
 /* ===== Banner Carrusel ===== */
+/* ===== Banner Carrusel ===== */
 .banner {
   position: relative;
   width: 100%;
-  height: 70vh;
-  min-height: 400px;
-  max-height: 700px;
+
+  /* Desktop */
+  height: 70dvh;
+  min-height: 450px;
+  max-height: 750px;
+
   overflow: hidden;
   margin-top: 72px;
 }
@@ -80,19 +84,29 @@ ul {
 .banner__slide {
   position: absolute;
   inset: 0;
-  background-size: cover;
-  background-position: center;
+  background-color: #000;
   opacity: 0;
   transition: opacity 1s ease;
+  overflow: hidden;
 }
 
 .banner__slide.active {
   opacity: 1;
 }
 
+.banner__slide .banner__image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
 .banner__overlay {
   position: absolute;
   inset: 0;
+  z-index: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -133,9 +147,8 @@ ul {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255,255,255,.4);
   border: 1px solid var(--dorado);
-  transition: background var(--transicion);
 }
 
 .banner__dot.active {
@@ -289,17 +302,60 @@ ul {
 
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
-  .banner {
-    height: 50vh;
-    min-height: 260px;
-    margin-top: 64px;
-  }
-
   .hero {
     padding: 2.5rem 1rem 1.5rem;
   }
 
   .catalogo {
     padding: 1.5rem 1rem 4rem;
+  }
+}
+
+/* ===== Tablet ===== */
+@media (max-width: 768px) {
+  .banner {
+    height: 55dvh;
+    min-height: 320px;
+    max-height: 500px;
+    margin-top: 64px;
+  }
+
+  .banner__overlay {
+    padding: 1.5rem;
+  }
+
+  .banner__title {
+    font-size: clamp(1.8rem, 7vw, 2.8rem);
+  }
+
+  .banner__subtitle {
+    font-size: 0.9rem;
+  }
+}
+
+/* ===== Celulares ===== */
+@media (max-width: 480px) {
+  .banner {
+    height: 45dvh;
+    min-height: 260px;
+    max-height: 380px;
+  }
+
+  .banner__overlay {
+    padding: 1rem;
+  }
+
+  .banner__title {
+    font-size: 1.8rem;
+    line-height: 1.1;
+  }
+
+  .banner__subtitle {
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+  }
+
+  .banner__dots {
+    bottom: 0.8rem;
   }
 }
