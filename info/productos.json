@@ -79,7 +79,7 @@
   },
   {
     "id": 6,
-    "nombre": "Arites Perforantes",
+    "nombre": "Aretes Perforantes",
     "precio": 1.50,
     "categoria": "Mujer",
     "info": "Aretes de diseño elegante y sofisticado, ideales para complementar tu estilo.",
@@ -211,7 +211,7 @@
   {
     "id": 17,
     "nombre": "Collar de enchape deoro de Hello Kitty",
-    "precio": 6.00,
+    "precio": 5.50,
     "categoria": "Mujer",
     "info": "Se la envidia de las chicas usando este collar de enchape deoro de Hello Kitty.",
     "imagenes": [
@@ -223,7 +223,7 @@
   {
     "id": 18,
     "nombre": "Collar de enchape de oro con una mariposa",
-    "precio": 6.00,
+    "precio": 5.50,
     "categoria": "Mujer",
     "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape deoro con una mariposa.",
     "imagenes": [
