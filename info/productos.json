@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Billetera de Cuero Clásica color Negra",
-    "precio": 5.00,
+    "precio": 4.00,
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "nombre": "Billetera de Cuero Clásica color Marrón",
-    "precio": 5.00,
+    "precio": 4.00,
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Buena elección que te da un toque de elegancia y sofisticación. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
@@ -33,7 +33,7 @@
   {
     "id": 3,
     "nombre": "Billetera de Cuero Clásica  color Azul",
-    "precio": 5.00,
+    "precio": 4.00,
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Perfecta para tus, tarjetas y documentos importantes.",
     "imagenes": [
@@ -49,7 +49,7 @@
   {
     "id": 4,
     "nombre": "Billetera de Cuero Clasica color Marron Oscuro",
-    "precio": 5.00,
+    "precio": 4.00,
     "categoria": "Hombre",
     "info": "Billetera de cuero genuino con diseño clásico. Perfecta para llevar monedas, tarjetas y documentos importantes.",
     "imagenes": [
@@ -127,7 +127,7 @@
   {
     "id": 10,
     "nombre": "set collar y aretes de enchape de oro con diseño de fresa",
-    "precio": 5.00,
+    "precio": 6.00,
     "categoria": "Mujer",
     "info": "Lindo set de aretes y collar de enchape de oro.",
     "imagenes": [
@@ -175,25 +175,13 @@
   {
     "id": 14,
     "nombre": "Hermoso aritos de enchape de oro con estilo de fresa",
-    "precio": 3.00,
+    "precio": 4.00,
     "categoria": "Mujer",
     "info": "Deslumbra tu belleza con estos aretes de enchape de oro con estilos de fresa.",
     "imagenes": [
       "img/0014/14001.jpeg",
       "img/0014/14002.jpeg",
       "img/0014/14003.jpeg"
-    ]
-  },
-  {
-    "id": 15,
-    "nombre": "Hermoso aritos de enchape de oro con estilo de fresa version mini",
-    "precio": 1.75,
-    "categoria": "Mujer",
-    "info": "Deslumbra tu belleza con estos aretes de enchape de oro con estilos de fresa version mini.",
-    "imagenes": [
-      "img/0015/15001.jpeg",
-      "img/0015/15002.jpeg",
-      "img/0015/15003.jpeg"
     ]
   },
   {
