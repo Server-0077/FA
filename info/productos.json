@@ -219,6 +219,45 @@
       "img/0018/18002.jpeg",
       "img/0018/18003.jpeg"
     ]
+  },
+  {
+    "id": 19,
+    "nombre": "Audifono original de Apple",
+    "precio": 75.00,
+    "categoria": "Mujer",
+    "categoria": "Hombre",
+    "info": "Son unos airpods Pro Gen 1 de Apple, no incluye caja solo cable de carga.",
+    "imagenes": [
+      "img/0019/19001.jpeg",
+      "img/0019/19002.jpeg",
+      "img/0019/19003.jpeg",
+      "img/0019/19004.jpeg",
+      "img/0019/19005.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Reloj para hombre estilo deportivo",
+    "precio": 10.00,
+    "categoria": "Hombre",
+    "info": "Un reloj estilo deportivo para hombres, que da un toque de elegancia.",
+    "imagenes": [
+      "img/0020/20001.jpeg",
+      "img/0020/20002.png",
+      "img/0020/20003.png"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Reloj para hombre estilo dorado",
+    "precio": 10.00,
+    "categoria": "Hombre",
+    "info": "Un reloj elegante para hombres, estilo dorado y de acero, execelente para la elegancia.",
+    "imagenes": [
+      "img/0021/21001.jpeg",
+      "img/0021/21002.png",
+      "img/0021/21003.png"
+    ]
   }
 
 ]
