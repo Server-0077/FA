@@ -79,14 +79,12 @@
   },
   {
     "id": 6,
-    "nombre": "Aretes Perforantes",
-    "precio": 1.50,
+    "nombre": "Collar de enchape de oro con una mariposa color rosa pastel",
+    "precio": 5.00,
     "categoria": "Mujer",
-    "info": "Aretes de diseño elegante y sofisticado, ideales para complementar tu estilo.",
+    "info": "Collar de diseño elegante y sofisticado, ideal para complementar tu estilo.",
     "imagenes": [
-      "img/0006/6001.jpeg",
-      "img/0006/6002.jpeg",
-      "img/0006/6003.jpeg"
+      "img/0006/6001.jpeg"
     ]
   },
   {
@@ -198,15 +196,12 @@
   },
   {
     "id": 17,
-    "nombre": "Collar de enchape deoro de Hello Kitty",
+    "nombre": "Set de collar aretes de echape de oro estilo gota de agua rosa",
     "precio": 5.00,
     "categoria": "Mujer",
-    "info": "Se la envidia de las chicas usando este collar de enchape deoro de Hello Kitty.",
+    "info": "Se la envidia de las chicas usando este collar de enchape de oro de estilo gota de agua rosa.",
     "imagenes": [
-      "img/0017/17001.jpeg",
-      "img/0017/17002.jpeg",
-      "img/0017/17003.jpeg",
-      "img/0017/17004.jpeg"
+      "img/0017/17001.jpeg"
     ]
   },
   {
@@ -214,25 +209,22 @@
     "nombre": "Collar de enchape de oro con una mariposa",
     "precio": 5.00,
     "categoria": "Mujer",
-    "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape deoro con una mariposa.",
+    "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape de oro con una mariposa color morado.",
     "imagenes": [
-      "img/0018/18001.jpeg",
+      "img/0018/18004.jpeg",
       "img/0018/18002.jpeg",
-      "img/0018/18003.jpeg"
+      "img/0018/18003.jpeg",
+      "img/0018/18005.jpeg"
     ]
   },
   {
     "id": 19,
-    "nombre": "Audifono original de Apple",
-    "precio": 75.00,
-    "categoria": "Hombre",
-    "info": "Son unos airpods Pro Gen 1 de Apple, no incluye caja solo cable de carga.",
+    "nombre": "Collar de enchape de oro con una mariposa color Amarillo brillante",
+    "precio": 5.00,
+    "categoria": "Mujer",
+    "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape de oro con una mariposa color Amarillo brillante.",
     "imagenes": [
-      "img/0019/19001.jpeg",
-      "img/0019/19002.jpeg",
-      "img/0019/19003.jpeg",
-      "img/0019/19004.jpeg",
-      "img/0019/19005.jpeg"
+      "img/0019/19001.jpeg"
     ]
   },
   {
@@ -257,6 +249,16 @@
       "img/0021/21001.jpeg",
       "img/0021/21002.png",
       "img/0021/21003.png"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Collar de enchape de oro con una mariposa color negro",
+    "precio": 5.00,
+    "categoria": "Mujer",
+    "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape de oro con una mariposa color negro.",
+    "imagenes": [
+      "img/0022/22001.jpeg"
     ]
   }
 
