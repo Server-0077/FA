@@ -84,6 +84,9 @@
     "categoria": "Mujer",
     "info": "Collar de diseño elegante y sofisticado, ideal para complementar tu estilo.",
     "imagenes": [
+      "img/0006/6002.jpeg",
+      "img/0006/6003.jpeg",
+      "img/0006/6004.jpeg",
       "img/0006/6001.jpeg"
     ]
   },
@@ -214,6 +217,7 @@
       "img/0018/18004.jpeg",
       "img/0018/18002.jpeg",
       "img/0018/18003.jpeg",
+      "img/0018/18001.jpeg",
       "img/0018/18005.jpeg"
     ]
   },
@@ -224,6 +228,9 @@
     "categoria": "Mujer",
     "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape de oro con una mariposa color Amarillo brillante.",
     "imagenes": [
+      "img/0019/19002.jpeg",
+      "img/0019/19003.jpeg",
+      "img/0019/19004.jpeg",
       "img/0019/19001.jpeg"
     ]
   },
@@ -258,6 +265,10 @@
     "categoria": "Mujer",
     "info": "Robate las miradas tanto como mujeres como hombres con el collar de enchape de oro con una mariposa color negro.",
     "imagenes": [
+      "img/0022/22002.jpeg",
+      "img/0022/22003.jpeg",
+      "img/0022/22004.jpeg",
+      "img/0022/22005.jpeg",
       "img/0022/22001.jpeg"
     ]
   }
